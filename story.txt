@@ -2,3 +2,9 @@ Medical tecnologies are very developing very fast today.
 
 
 Especially after the discovery of CRISPR, which is an amazing gene that can be reverse engineered, potentially yielding new cancer treatments and other medical miracles that before were only found in science fiction.
+
+
+
+But medical research is faced by many challenges such as deciphering of the human DNA/genes. Humans have 
+been deciphering DNA sequence since the discovery of DNA, but we have only deciphered a small fraction.
+
