@@ -9,4 +9,7 @@ But medical research is faced by many challenges such as deciphering of the huma
 been deciphering DNA sequence since the discovery of DNA, but we have only deciphered a small fraction.
 
 On the other hand, the results has shown that the average age of death has significantly increased compared to one hundred years ago, when people have an average death age between 40 - 50
-so these advanced techologies make our lives better(End)
+so these advanced techologies make our lives better.
+
+
+However, a big concern for CRISPR would be that it is not perfect. It can inadvertently wipe out and rearrange large swaths of DNA in ways that may imperil human health.
